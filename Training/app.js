@@ -28,7 +28,6 @@ app.get('/employees/:id', (req, res) => {
  .then(response => {
  	
  	console.log("id: "+id);
- 	//const employeeIndex = employees.findIndex(emp => emp.id == id);
 
  	console.log(response.data);
  	res.json(response.data)
@@ -85,7 +84,6 @@ app.delete('/employees/:id', (req, res) => {
  .then(response => {
  	
  	console.log("id: "+id);
- 	//const employeeIndex = employees.findIndex(emp => emp.id == id);
 
  	console.log(response.data);
  	res.json(response.data)
