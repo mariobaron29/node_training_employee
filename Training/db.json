@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Luke",
+      "salary": 1000,
+      "position": "dev"
+    },
+    {
+      "id": 3,
+      "name": "David",
+      "position": "CEO",
+      "salary": 50000000
+    },
+    {
+      "name": "Mario Patch",
+      "salary": 6000,
+      "position": "dev",
+      "id": 4
+    },
+    {
+      "name": "Mario Post",
+      "salary": 55000,
+      "position": "Sr dev",
+      "id": 5
+    }
+  ]
+}
