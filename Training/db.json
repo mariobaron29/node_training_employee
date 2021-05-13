@@ -1,16 +1,10 @@
 {
   "employees": [
     {
-      "id": 1,
-      "name": "Luke",
-      "salary": 1000,
-      "position": "dev"
-    },
-    {
       "id": 3,
-      "name": "David",
-      "position": "CEO",
-      "salary": 50000000
+      "name": "Mario Patch Mod",
+      "position": "dev patch",
+      "salary": 65000
     },
     {
       "name": "Mario Patch",
@@ -23,6 +17,42 @@
       "salary": 55000,
       "position": "Sr dev",
       "id": 5
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "name": "test_create_employee",
+      "salary": 24,
+      "position": "auto_generated",
+      "id": 9
+    },
+    {
+      "name": "test_create_employee",
+      "salary": 24,
+      "position": "auto_generated",
+      "id": 10
+    },
+    {
+      "name": "test_create_employee",
+      "salary": 24,
+      "position": "auto_generated",
+      "id": 11
+    },
+    {
+      "name": "test_create_employee",
+      "salary": 24,
+      "position": "auto_generated",
+      "id": 12
+    },
+    {
+      "name": "test_create_employee",
+      "salary": 24,
+      "position": "auto_generated",
+      "id": 13
     }
   ]
 }
